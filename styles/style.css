@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(224, 166, 90);
+    font-size: 4vmin;
+}
+
+img {
+    height: auto;
+    width: 50vmax;
+}
