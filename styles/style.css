@@ -1,9 +1,32 @@
 body {
     background-color: rgb(224, 166, 90);
     font-size: 4vmin;
+    text-align: center;
+    color: rgb(73, 43, 4);
 }
 
 img {
     height: auto;
     width: 50vmax;
+}
+
+ul,
+ol {
+    text-align: left;
+}
+
+a {
+    color: rgb(54, 113, 115);
+    text-decoration: none;
+}
+
+.menuItem {
+    text-decoration: underline wavy;
+    text-underline-offset: 2px;
+}
+
+.menuItemStar {
+    font-size: x-large;
+    color: rgb(73, 43, 4);
+    margin: 5px;
 }
