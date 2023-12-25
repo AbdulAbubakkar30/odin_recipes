@@ -16,6 +16,16 @@ ol {
     text-align: left;
 }
 
+ol {
+    color: rgb(124, 201, 23);
+    font-weight: 900;
+}
+
+.olText {
+    color: rgb(73, 43, 4);
+    font-weight: normal;
+}
+
 a {
     color: rgb(23, 68, 69);
     text-decoration: none;
