@@ -37,7 +37,7 @@ a:hover {
 }
 
 .menuItemStar {
-    font-size: x-large;
+    font-size: 4vmin;
     color: rgb(73, 43, 4);
     margin: 5px;
 }
