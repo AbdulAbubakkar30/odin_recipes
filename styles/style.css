@@ -1,8 +1,9 @@
 body {
-    background-color: rgb(224, 166, 90);
+    background-color: rgb(185, 140, 51);
     font-size: 4vmin;
     text-align: center;
     color: rgb(73, 43, 4);
+    margin: 0;
 }
 
 img {
@@ -16,8 +17,13 @@ ol {
 }
 
 a {
-    color: rgb(54, 113, 115);
+    color: rgb(23, 68, 69);
     text-decoration: none;
+}
+
+a:hover {
+    color: rgb(54, 113, 115);
+    text-underline-offset: 4px;
 }
 
 .menuItem {
@@ -29,4 +35,10 @@ a {
     font-size: x-large;
     color: rgb(73, 43, 4);
     margin: 5px;
+}
+
+.card {
+    background-color: rgb(109, 137, 31);
+    margin: 4vmin;
+    padding: 4vmin;
 }
