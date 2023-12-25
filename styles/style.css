@@ -8,7 +8,7 @@ body {
 
 img {
     height: auto;
-    width: 50vmax;
+    width: 75vmin;
 }
 
 ul,
@@ -41,4 +41,5 @@ a:hover {
     background-color: rgb(109, 137, 31);
     margin: 4vmin;
     padding: 4vmin;
+    min-height: 100vh;
 }
